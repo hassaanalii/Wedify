@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "911884753648",
+    "project_id": "wedify-3a661",
+    "storage_bucket": "wedify-3a661.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911884753648:android:c491923bf67eea0543c035",
+        "android_client_info": {
+          "package_name": "com.wedify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911884753648-4gt09ef790lor9478m3tvshv0lu12cdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wedify",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "911884753648-14onjv1dscv49qh73cd13s1ho7ghevph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwCtOB45sVLi_lB7tl8lKdqUPXAi3ZlPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911884753648-14onjv1dscv49qh73cd13s1ho7ghevph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/DMSerifDisplay-Italic.ttf",
+      "sha1": "b77fc14f086c454bbf7f424156a1e10ba1de7602"
+    },
+    {
+      "path": "assets/fonts/DMSerifDisplay-Regular.ttf",
+      "sha1": "01ab9580097ad72cee6677479868198af1d1ced4"
+    },
+    {
+      "path": "assets/fonts/Montaga-Regular.ttf",
+      "sha1": "55bb4237067da8f2658e621345810b732eb6fbe4"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "3bc8164396c3e6c1e4fae0cf2a51ea66381c1c2d"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "6f007dac8dacf714ddcfaa3132a887e6a71cf792"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "52f9413b264e8ecefbbf12830e3dfadebbf72986"
+    }
+  ]
+}
